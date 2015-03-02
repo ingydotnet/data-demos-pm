@@ -1,4 +1,9 @@
 ---
+version: 0.0.2
+date:    Mon Mar  2 12:52:00 PST 2015
+changes:
+- Make intro doc more precise
+---
 version: 0.0.1
 date:    Mon Mar  2 09:05:05 PST 2015
 changes:

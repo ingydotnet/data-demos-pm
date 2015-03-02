@@ -15,7 +15,7 @@ Data::Demos - Database Migration Demos
 
 =head1 Version
 
-This document describes L<Data::Demos> version B<0.0.1>.
+This document describes L<Data::Demos> version B<0.0.2>.
 ";
 
 =head1 Synopsis
