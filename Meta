@@ -1,0 +1,27 @@
+=meta: 0.0.2
+
+name: Data-Demos
+version: 0.0.1
+abstract: Database Migration Demos
+homepage: https://metacpan.org/release/Data-Demos
+language: perl
+license: perl
+copyright: 2015
+
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+  homepage: http://ingy.net
+
+requires:
+  perl: 5.8.1
+
+devel:
+  git: https://github.com/ingydotnet/data-demos-pm
+  bug: https://github.com/ingydotnet/data-demos-pm/issues
+  irc: irc.freenode.net#pkg
+
+badge: travis
