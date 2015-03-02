@@ -39,15 +39,15 @@ The command line tool for interacting with Data::Demos.
 
 =item Sources
 
-Preconfigured ppen data sources
+Open data provider web sites
 
-=item Databases
+=item Datasets
 
-Various databases (tables) provided by the sources
+Various collections of data around a topic
 
-=item Engines
+=item Database
 
-Local databases engines to import databases into:
+Specific database engines to import datasets into:
 
 =over
 
@@ -61,21 +61,21 @@ Local databases engines to import databases into:
 
 =back
 
-=item Schemas
+=item Schemata
 
-Databases are imported adhering to certain schemas
+Definitions of columns, types and relations for a dataset
 
 =item Stories
 
-Common tasks for database migrations.
+Common tasks for dataset migrations
 
-=item Actions
+=item Functions
 
-Each Story is implemented as code so that it can be applied at any time.
+Named migration code that can be applied to a dataset (does a migration)
 
 =item Demos
 
-Visual views of the data that can show off interesting things.
+Visual views of the data that can show off interesting things about a dataset
 
 =back
 
@@ -84,7 +84,7 @@ Visual views of the data that can show off interesting things.
 This project is primarily/initially a way to see various Perl database tools,
 and specifically L<Class::DBIx::DeploymentHandler> in action. From there
 people can add stories and actions for more and more useful things needed in
-dealing with database migration.
+dealing with dataset migration.
 
 =head1 Status
 
