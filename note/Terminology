@@ -1,0 +1,36 @@
+* https://project-open-data.cio.gov/glossary/
+
+- dataset
+
+  A dataset is an organized collection of data. The most basic representation
+  of a dataset is data elements presented in tabular form. Each column
+  represents a particular variable. Each row corresponds to a given value of
+  that column’s variable.
+
+- database
+
+  A collection of data stored according to a schema and manipulated according
+  to the rules set out in one Data Modelling Facility.
+
+== Terms (possible Names to use)
+
+- data base
+- data source
+- data sets
+- data collection
+- data structure
+- schemata
+
+== Things to define (ie things to name) with examples
+
+- Sites on the web that have open data collections (data related to a topic)
+  - http://www.data.gov/
+  - http://sunlightfoundation.com/api/
+- Data sets (actual relational data)
+  - http://catalog.data.gov/dataset/severe-weather-data-inventory
+  - http://sunlightlabs.github.io/openstates-api/
+- Data Software Implementations
+  - PostgreSQL
+  - SQLite
+- Definitions of data structure
+  - Columns / types / relations
